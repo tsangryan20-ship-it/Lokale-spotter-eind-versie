@@ -1,0 +1,229 @@
+[
+  {
+    "id": "nunl",
+    "name": "NU.nl",
+    "category": "Nationaal",
+    "type": "website",
+    "urls": ["https://www.nu.nl"],
+    "rssUrls": [
+      "https://www.nu.nl/rss/Algemeen",
+      "https://www.nu.nl/rss/Binnenland",
+      "https://www.nu.nl/rss/Opmerkelijk",
+      "https://www.nu.nl/rss/Achterklap"
+    ]
+  },
+  {
+    "id": "alarm112",
+    "name": "112-alarmeringen.nl",
+    "category": "112 / Veiligheid",
+    "type": "website",
+    "urls": ["https://112-alarmeringen.nl"],
+    "rssUrls": [
+      "https://112-alarmeringen.nl/feed"
+    ]
+  },
+  {
+    "id": "alarmeringen",
+    "name": "Alarmeringen.nl",
+    "category": "112 / Veiligheid",
+    "type": "website",
+    "urls": ["https://alarmeringen.nl"],
+    "rssUrls": [
+      "https://alarmeringen.nl/feed/"
+    ]
+  },
+  {
+    "id": "msn",
+    "name": "MSN Nederland",
+    "category": "Nationaal",
+    "type": "website",
+    "urls": [
+      "https://www.msn.com/nl-nl/nieuws",
+      "https://www.msn.com/nl-nl/nieuws/binnenlands",
+      "https://www.msn.com/nl-nl/entertainment"
+    ],
+    "rssUrls": []
+  },
+  {
+    "id": "telegraaf",
+    "name": "De Telegraaf",
+    "category": "Nationaal",
+    "type": "website",
+    "urls": [
+      "https://www.telegraaf.nl/binnenland/",
+      "https://www.telegraaf.nl/politiek/",
+      "https://www.telegraaf.nl/entertainment/"
+    ],
+    "rssUrls": [
+      "https://www.telegraaf.nl/rss",
+      "https://www.telegraaf.nl/nieuws/binnenland/rss",
+      "https://www.telegraaf.nl/nieuws/politiek/rss"
+    ]
+  },
+  {
+    "id": "ad",
+    "name": "Algemeen Dagblad",
+    "category": "Nationaal",
+    "type": "website",
+    "urls": [
+      "https://www.ad.nl/binnenland/",
+      "https://www.ad.nl/politiek/",
+      "https://www.ad.nl/bizar/"
+    ],
+    "rssUrls": [
+      "https://www.ad.nl/home/rss.xml",
+      "https://www.ad.nl/binnenland/rss.xml"
+    ]
+  },
+  {
+    "id": "rtl",
+    "name": "RTL Nieuws",
+    "category": "Nationaal",
+    "type": "website",
+    "urls": [
+      "https://www.rtl.nl/nieuws",
+      "https://www.rtl.nl/nieuws/politiek",
+      "https://www.rtl.nl/boulevard"
+    ],
+    "rssUrls": [
+      "https://www.rtl.nl/rss/nieuws/nieuws.xml"
+    ]
+  },
+  {
+    "id": "nos",
+    "name": "NOS",
+    "category": "Nationaal",
+    "type": "website",
+    "urls": [
+      "https://nos.nl/nieuws/binnenland",
+      "https://nos.nl/nieuws/politiek",
+      "https://nos.nl/nieuws/economie"
+    ],
+    "rssUrls": [
+      "https://feeds.nos.nl/nosnieuws",
+      "https://feeds.nos.nl/nosnieuwsbinnenland",
+      "https://feeds.nos.nl/nosnieuwspolitiek"
+    ]
+  },
+  {
+    "id": "volkskrant",
+    "name": "De Volkskrant",
+    "category": "Nationaal",
+    "type": "website",
+    "urls": [
+      "https://www.volkskrant.nl/binnenland/",
+      "https://www.volkskrant.nl/politiek/"
+    ],
+    "rssUrls": [
+      "https://www.volkskrant.nl/rss.xml"
+    ]
+  },
+  {
+    "id": "hartvannederland",
+    "name": "Hart van Nederland",
+    "category": "Nationaal",
+    "type": "website",
+    "urls": [
+      "https://www.hartvannederland.nl",
+      "https://www.hartvannederland.nl/politiek",
+      "https://www.hartvannederland.nl/112"
+    ],
+    "rssUrls": [
+      "https://www.hartvannederland.nl/feed"
+    ]
+  },
+  {
+    "id": "politie",
+    "name": "Politie.nl",
+    "category": "Officieel",
+    "type": "website",
+    "urls": [
+      "https://www.politie.nl/nieuws",
+      "https://www.politie.nl/gezocht"
+    ],
+    "rssUrls": [
+      "https://www.politie.nl/nieuws?_format=json"
+    ]
+  },
+  {
+    "id": "crimesite",
+    "name": "Crimesite",
+    "category": "Misdaad",
+    "type": "website",
+    "urls": [
+      "https://www.crimesite.nl/category/laatste-nieuws/"
+    ],
+    "rssUrls": [
+      "https://www.crimesite.nl/feed"
+    ]
+  },
+  {
+    "id": "nhnieuws",
+    "name": "NH Nieuws",
+    "category": "Noord-Holland",
+    "type": "website",
+    "urls": [
+      "https://www.nhnieuws.nl",
+      "https://www.nhnieuws.nl/schiphol",
+      "https://www.nhnieuws.nl/west-friesland",
+      "https://www.nhnieuws.nl/zaanstreek-waterland"
+    ],
+    "rssUrls": [
+      "https://www.nhnieuws.nl/rss"
+    ]
+  },
+  {
+    "id": "rijnmond",
+    "name": "Rijnmond",
+    "category": "Zuid-Holland",
+    "type": "website",
+    "urls": [
+      "https://www.rijnmond.nl/nieuws",
+      "https://www.rijnmond.nl/nieuws/bureau-rijnmond",
+      "https://www.rijnmond.nl/nieuws/112"
+    ],
+    "rssUrls": [
+      "https://www.rijnmond.nl/rss/nieuws"
+    ]
+  },
+  {
+    "id": "omroepbrabant",
+    "name": "Omroep Brabant",
+    "category": "Noord-Brabant",
+    "type": "website",
+    "urls": [
+      "https://www.omroepbrabant.nl/mostviewed",
+      "https://www.omroepbrabant.nl/netbinnen",
+      "https://www.omroepbrabant.nl/112"
+    ],
+    "rssUrls": [
+      "https://www.omroepbrabant.nl/rss"
+    ]
+  },
+  {
+    "id": "rtvnoord",
+    "name": "RTV Noord",
+    "category": "Groningen",
+    "type": "website",
+    "urls": [
+      "https://www.rtvnoord.nl/net-binnen",
+      "https://www.rtvnoord.nl/112"
+    ],
+    "rssUrls": [
+      "https://www.rtvnoord.nl/rss/nieuws"
+    ]
+  },
+  {
+    "id": "l1limburg",
+    "name": "L1 Limburg",
+    "category": "Limburg",
+    "type": "website",
+    "urls": [
+      "https://www.l1nieuws.nl/net-binnen",
+      "https://www.l1nieuws.nl/112"
+    ],
+    "rssUrls": [
+      "https://www.l1nieuws.nl/rss"
+    ]
+  }
+]
