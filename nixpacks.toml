@@ -1,0 +1,13 @@
+# Extra system packages needed to compile better-sqlite3 (native Node.js addon)
+[phases.setup]
+nixPkgs = ["python3", "gcc", "gnumake"]
+
+# Install ALL dependencies (including devDependencies) so Tailwind CSS builds correctly
+[phases.install]
+cmds = ["npm ci --include=dev"]
+
+[phases.build]
+cmds = ["npm run build"]
+
+[start]
+cmd = "npm start"
